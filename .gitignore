@@ -1,1 +1,11 @@
 /bin/
+src/basisprogrammeren/Basisprogrammeren.java
+src/basisprogrammeren/Countdown.java
+src/basisprogrammeren/InfiniteLoop.java
+src/basisprogrammeren/ScopeTest.java
+src/basisprogrammeren/SquareRootWhile.java
+src/basisprogrammeren/SumofNums.java
+src/defaultpackage/AgeCheck.java
+src/defaultpackage/ChkOddEven.java
+src/defaultpackage/ShoppingCart.java
+src/defaultpackage/StringEquality.java
